@@ -1,6 +1,7 @@
 agendacie.interno.gov.it 443
 censimentoict.italia.it 443
 cloud.italia.it 443
+daf-anpr-dashboard.daf.teamdigitale.it 443
 dashboard.teamdigitale.governo.it 443
 dataportal.daf.teamdigitale.it 443
 dati.gov.it 443
