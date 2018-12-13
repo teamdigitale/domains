@@ -13,7 +13,9 @@ helpdesk.spid.gov.it 443
 io.italia.it 443
 pianotriennale-ict.italia.it 443
 slack.developers.italia.it 443
+sso.18app.italia.it 443
 teamdigitale.governo.it 443
+www.18app.italia.it 443
 www.agid.gov.it 443
 www.anpr.interno.it 443
 www.cartaidentita.interno.gov.it 443
