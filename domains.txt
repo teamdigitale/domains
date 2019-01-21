@@ -8,10 +8,13 @@ dati.gov.it 443
 designers.italia.it 443
 developers.italia.it 443
 docs.italia.it 443
+elasticsearch.developers.italia.it 443
 forum.italia.it 443
 helpdesk.spid.gov.it 443
 io.italia.it 443
 pianotriennale-ict.italia.it 443
+pre.developers.italia.it 443
+publiccode-editor.developers.italia.it 443
 slack.developers.italia.it 443
 sso.18app.italia.it 443
 teamdigitale.governo.it 443
