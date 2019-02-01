@@ -5,6 +5,7 @@ daf-anpr-dashboard.daf.teamdigitale.it 443
 dashboard.teamdigitale.governo.it 443
 dataportal.daf.teamdigitale.it 443
 dati.gov.it 443
+design.italia.it 443
 designers.italia.it 443
 developers.italia.it 443
 docs.italia.it 443
