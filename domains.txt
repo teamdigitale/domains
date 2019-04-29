@@ -10,6 +10,7 @@ design.italia.it 443
 designers.italia.it 443
 developers.italia.it 443
 docs.italia.it 443
+docs-italia-staging.teamdigitale.it 443
 elasticsearch.developers.italia.it 443
 forum.italia.it 443
 helpdesk.spid.gov.it 443
